@@ -1,0 +1,62 @@
+
+.nav3>.navbar{
+    width: 300px !important;
+    margin-left: 50px !important;
+    margin-top: -15px;
+    background-color: transparent !important;
+}
+.carousel-item,.carousel-item>img{
+    width: 100% !important;
+    height: 500px !important;
+}
+.img-thumbnail{
+    height: 80px !important;
+    width: 100px !important;
+}
+.navbar{
+    background-color:rgb(70, 42, 42) !important;
+}
+.menucard{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card{
+    width: 100% !important;
+}
+.col-md-4>img{
+    height: 100% !important;
+}
+.me{
+    background-color: rgb(70, 42, 42) !important;
+}
+.me2{
+    background-color: rgb(70, 42, 42) !important;
+    margin-top: 50PX !important;
+}
+.btn{
+    background-color:rgb(70, 42, 42) !important ;
+}
+.cardmenu2{
+    display: flex;
+    justify-content:space-around ;
+    margin-top: 20PX !important;
+}
+.cardmenu2>.card{
+    width: 25% !important;
+}
+.cardmenu2>.card>.card-img-top{
+    height: 200px !important;
+}
+.card-footer{
+    background-color: rgb(46, 30, 30) !important;
+    display: flex !important;
+}
+.list-group-item{
+    height: 60px !important;
+    background-color: transparent !important;
+    color: white !important;
+}
+.end{
+    color: white !important ;
+    font-weight: bold !important;
+}
